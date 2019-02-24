@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+Dmitry Hryshuk
+HTML CSS Basics: https://www.codecademy.com/users/hryshuk/achievements
